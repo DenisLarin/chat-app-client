@@ -1,0 +1,18 @@
+.logout{
+    width: 100%;
+    display: flex;
+    padding-left: 50px;
+    margin-top: auto;
+}
+.logout__icon{
+    width: 24px;
+    height: 24px;
+    margin-right: 16px;
+}
+.logout__title{
+    font-weight: bold;
+    color: var(--light-text-color);
+    font-size: var(--basic-font-size);
+    text-transform: uppercase;
+    line-height: var(--basic-line-height);
+}

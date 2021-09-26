@@ -1,0 +1,8 @@
+.page{
+    min-height: 100vh;
+    min-width: 100vw;
+    background-color: var(--background-one-color);
+    display: grid;
+    grid-template-columns: 290px minmax(200px, calc(100% - 290px));
+    grid-column-gap: 20px;
+}
